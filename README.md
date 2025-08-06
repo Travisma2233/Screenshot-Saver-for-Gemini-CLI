@@ -188,9 +188,5 @@ Supported hotkey formats:
    - This is normal as it includes Python runtime environment
    - Can consider using UPX compression (already enabled in spec file)
 
-## Version Information
 
-- Version: 1.0.0
-- Author: Assistant
-- Last Updated: 2024
 - **Optimized for Gemini CLI users**
